@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zy/NetworkTest/lab1-myftp-SJZHZ/ftp_client.c
+stdio.h
+-
+string.h
+-
+stdint.h
+-
+netinet/in.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+limits.h
+-
+
