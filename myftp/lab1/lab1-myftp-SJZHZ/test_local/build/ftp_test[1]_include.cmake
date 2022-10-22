@@ -1,5 +1,0 @@
-if(EXISTS "/home/zy/NetworkTest/lab1-myftp-SJZHZ/test_local/build/ftp_test[1]_tests.cmake")
-  include("/home/zy/NetworkTest/lab1-myftp-SJZHZ/test_local/build/ftp_test[1]_tests.cmake")
-else()
-  add_test(ftp_test_NOT_BUILT ftp_test_NOT_BUILT)
-endif()

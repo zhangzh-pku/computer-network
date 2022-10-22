@@ -1,5 +1,0 @@
-/home/zy/NetworkTest/lab1-myftp-SJZHZ/build/CMakeFiles/rebuild_cache.dir
-/home/zy/NetworkTest/lab1-myftp-SJZHZ/build/CMakeFiles/edit_cache.dir
-/home/zy/NetworkTest/lab1-myftp-SJZHZ/build/CMakeFiles/test.dir
-/home/zy/NetworkTest/lab1-myftp-SJZHZ/build/CMakeFiles/ftp_client.dir
-/home/zy/NetworkTest/lab1-myftp-SJZHZ/build/CMakeFiles/ftp_server.dir

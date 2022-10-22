@@ -1,4 +1,5 @@
 #include <stdio.h>
+typedef unsigned int uint32_t;
 typedef unsigned char byte;
 typedef unsigned char type;
 #define MAGIC_NUMBER_LENGTH 6
